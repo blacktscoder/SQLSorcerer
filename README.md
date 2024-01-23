@@ -32,7 +32,8 @@
 
 ###
 
-<p align="left">im Tatenda M from 🌍. Currently invested in React! ⚡️ as well as data engineering with aws! lets connect</p>
+<p align="left">im Tatenda M from 🌍. Currently invested in Nestjs as Backend Full Stack Engineer! ⚡️ Frontend - React/NextJS (NextUI, TailwindCSS)
+Backend - NodeJs, NestJs, TypeORM, Postgres, GraphQL, gRPC, Redis, Kafka, RabbitMQ, Passport, Bcrypt, JWT, Express, Docker</p>
 
 ###
 
